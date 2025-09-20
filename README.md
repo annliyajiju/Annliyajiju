@@ -11,7 +11,7 @@
 ---
 
 📊 GitHub Stats  
-![Annliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnliyaJ&show_icons=true&theme=radical)  
+![Annliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annliyajiju&show_icons=true&theme=radical)  
 
 ---
 
