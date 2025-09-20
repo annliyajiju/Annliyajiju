@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me  
 - 🎓 Currently pursuing *B.Tech in Computer Science* 
 - 🌱 Exploring field *cybersecurity* 
-- 💡 trying to learn something new ....
+- 💡 trying to learn something everytime ....
 ---
 ### 🛠 Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
