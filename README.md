@@ -39,6 +39,5 @@
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/annliya-jiju-a47986332/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/annliya-jiju-a47986332/)   
 
-'
