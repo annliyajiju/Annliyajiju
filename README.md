@@ -4,7 +4,8 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🎓 Currently pursuing *B.Tech in Computer Science* 
+- 🎓 Currently pursuing *B.Tech in Computer Science*
+- 💻 Aspiring *Full Stack Developer*
 - 🌱 Exploring field *cybersecurity* 
 - 💡 trying to learn something everytime ....
 ---
