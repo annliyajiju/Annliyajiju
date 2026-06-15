@@ -7,7 +7,7 @@
 - 🎓 Currently pursuing *B.Tech in Computer Science*
 - 💻 Aspiring *Full Stack Developer*
 - 🌱 Exploring field *cybersecurity* 
-- 💡 trying to learn something everytime ....
+- 💡 trying to learn eventhough its confusing 🥴....
 ---
 ## 🛠 Tech Stack
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
